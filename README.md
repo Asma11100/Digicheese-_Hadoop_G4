@@ -5,11 +5,11 @@ Ce projet a pour objectif de mettre en oeuvre un ensemble de technologies **Big 
 
 À partir du fichier source `dataw_fro.csv` (données de commande depuis 2004), le projet est découpé en plusieurs **lots** :
 
-- LOT 0 : Nettoyage et préparation des données (Data Analyst)
-- Lot 1 : Traitement MapReduce Hadoop pour obtenir les 100 meilleurs commandes (2006-2010 départements 53/61/28)
-- LOT 2 : Analyse complémentaire (2011-2016, départements 22/49/53, échantillon aléatoire 5%) avec export et graphiques
-- LOT 3 : Stockage et interrogation des données dans **Hbase** (NoSQL) via **HappyBase (Pyhon)**
-- LOT 4 : Création de **dashboards interactifs Power BI** connectés aux données
+- **LOT 0** : Nettoyage et préparation des données (Data Analyst)
+- **LOT 1** : Traitement MapReduce Hadoop pour obtenir les 100 meilleurs commandes (2006-2010 départements 53/61/28)
+- **LOT 2** : Analyse complémentaire (2011-2016, départements 22/49/53, échantillon aléatoire 5%) avec export et graphiques
+- **LOT 3** : Stockage et interrogation des données dans **Hbase** (NoSQL) via **HappyBase (Pyhon)**
+- **LOT 4** : Création de **dashboards interactifs Power BI** connectés aux données
 
 Le livrable final comprend : 
 
