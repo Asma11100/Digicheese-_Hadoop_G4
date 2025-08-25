@@ -111,7 +111,7 @@ python hbase/import_csv.py data/dataw_fro_clean.csv
 python analytics_py/lot3_exports.py
 ```
 
-###- LOT 4 (POWER BI)
+### - LOT 4 (POWER BI)
 
 Ouvrir `powerbi/projet_bigdata.pbix` dans Power BI Desktop.
 
